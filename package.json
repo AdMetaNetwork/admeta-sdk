@@ -1,0 +1,17 @@
+{
+  "name": "admeta-sdk",
+  "version": "1.0.2",
+  "description": "admeta sdk",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
